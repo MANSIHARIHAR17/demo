@@ -1,3 +1,4 @@
 # demo
-this is my first git repository
-author-mansi harihar
+this is my first Git Repository.
+<br>
+Author-Mansi Harihar
